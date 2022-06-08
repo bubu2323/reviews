@@ -1,6 +1,5 @@
-# Frontend Mentor - Tip calculator app solution
-
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+# Frontend Mentor - Reviews project
+-This is a challenge from FreeCodeCamp-
 
 ## Table of contents
 
@@ -28,7 +27,7 @@ Create a page that display some reviewers of users. There must be arrows to scro
 
 ### Live site
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://github.com/bubu2323/reviews_shower.git)
 
 ## My process
 
