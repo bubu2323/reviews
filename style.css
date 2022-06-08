@@ -1,0 +1,43 @@
+* {
+  font-family: "Joan", serif;
+  letter-spacing: 1px;
+}
+body {
+  background-color: rgba(135, 217, 227, 0.621);
+}
+/*---*/
+footer a {
+  text-decoration: none !important;
+  color: rgb(255, 0, 0);
+  text-shadow: 3px 3px 7px rgba(0, 0, 0, 0.94);
+}
+footer a:hover {
+  color: rgb(160, 0, 0);
+  font-size: 1.2em;
+}
+
+div.container-img {
+  margin: 1em;
+}
+footer {
+  margin-top: 3em;
+}
+
+img.img_rew {
+  width: 10em;
+  height: 10em;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 5px 1px 1px 3px rgba(255, 170, 1, 0.749);
+}
+#job {
+  color: rgb(255, 170, 1);
+}
+
+hr.hr_title {
+  width: 15em;
+}
+/*h3::first-letter,
+h4::first-letter {
+    text-transform:capitalize;
+}*/
