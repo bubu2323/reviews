@@ -27,7 +27,7 @@ Create a page that display some reviewers of users. There must be arrows to scro
 
 ### Live site
 
-- Live Site URL:[https://github.com/bubu2323/reviews_shower.git]
+- Live Site URL:[https://bubu2323.github.io/reviews/]
 
 ## My process
 
