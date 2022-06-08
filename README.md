@@ -27,7 +27,7 @@ Create a page that display some reviewers of users. There must be arrows to scro
 
 ### Live site
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://github.com/bubu2323/reviews_shower.git)
+- Live Site URL:[https://github.com/bubu2323/reviews_shower.git]
 
 ## My process
 
@@ -58,6 +58,6 @@ yone viewing your solution or for yourself when you look back on this project in
 
 ## Author
 
-- Github - [Github Profile:](https://github.com/bubu2323)
+ [Github Profile](https://github.com/bubu2323)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
